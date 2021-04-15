@@ -7,3 +7,5 @@ required libraries to execute - "tkinter", "pytube", "os"
 ![Capture](https://user-images.githubusercontent.com/70424466/114895745-60390a80-9e2d-11eb-9239-79070f9eba48.JPG)
 
 the gui is fairly simple and definitely has a huge room for improvement
+
+you can use thee pyinstaller library to package the application
